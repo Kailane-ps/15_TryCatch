@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\bin\Debug\netcoreapp3.1\15_TryCatch.exe
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\bin\Debug\netcoreapp3.1\15_TryCatch.deps.json
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\bin\Debug\netcoreapp3.1\15_TryCatch.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\bin\Debug\netcoreapp3.1\15_TryCatch.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\bin\Debug\netcoreapp3.1\15_TryCatch.dll
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\bin\Debug\netcoreapp3.1\15_TryCatch.pdb
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.dll
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.pdb
+C:\Users\Kailane\Desktop\SENAI K\15_TryCatch\obj\Debug\netcoreapp3.1\15_TryCatch.genruntimeconfig.cache
